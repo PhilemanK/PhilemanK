@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![div style="display: flex; justify-content: center; align-items: center; height: 100vh;"]
+
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/philemank) [![](https://visitcount.itsvg.in/api?id=PhilemanK&icon=0&color=0)](https://visitcount.itsvg.in)
 
@@ -17,7 +17,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=PhilemanK&theme=dark&hide_border=true&include_all_commits=false&count_private=false)<br/>
 
 
-![/div]
 
 
 
