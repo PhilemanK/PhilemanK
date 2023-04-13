@@ -1,4 +1,4 @@
-<h3 align="center">Backend developer | Cyber-Security</h3>
+<h3 align="center">Backend Web-Developer | Cyber-Security</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
